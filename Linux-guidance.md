@@ -78,7 +78,7 @@ ps [options]  //显示进程信息
 
 ### 重定向输入输出
 
-<img src="E:\vscodefile\image\linux重定向.png"  />
+<img src=".\image\linux重定向.png"  />
 
 
 
@@ -149,7 +149,7 @@ find / -type f -name *.log | xargs grep ERROR
 
 
 
-### nohup
+### nohup命令
 
 **nohup Command [ Arg … ] [　& ]**
 

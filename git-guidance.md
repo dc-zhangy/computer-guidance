@@ -8,7 +8,7 @@
 
 ### 工作流程
 
-<img src="E:\vscodefile\image\git.jpg" alt="n" style="zoom: 80%;" />
+<img src=".\image\git.jpg" alt="n" style="zoom: 80%;" />
 
 ### 常用命令
 
@@ -60,7 +60,7 @@ git pull   #将远程仓库的最先状态合并到本地  git pull = git fetch 
 
 #### 分支管理
 
-![](E:\vscodefile\image\branch.png)
+![](.\image\branch.png)
 
 **分支创建**
 
