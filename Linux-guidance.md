@@ -73,7 +73,8 @@ ps [options]  //显示进程信息
 
 # kill -9 pid  //彻底杀死进程
 ```
-
+## linux环境变量配置总结
+[linux环境变量配置总结](https://zhuanlan.zhihu.com/p/358198500)
 ## 高级技巧
 
 ### 重定向输入输出
