@@ -17,8 +17,9 @@
 git init           #初始化当前文件夹为一个git版本库
 
 git status         #查看仓库状态
-git diff           #查看工作区与暂存期的diff
-git diff <file>    #查看文件当前提交与上一次提交的diff
+git diff           #查看工作区与暂存区的diff
+git diff <file>    #指定文件
+git diff --cached  #查看暂存区与上一次提交的diff
 git log            #查看历史提交记录
 
 git add <file>     #把工作目录的修改提交到暂存区
