@@ -91,4 +91,7 @@ git branch -d dev    #删除dev分支
 
 git merge dev       #将dev分支的成果合并到当前所在分支，一般是master
 ```
-
+#### 打标签
+```
+git tag           # 列出所有标签
+```
