@@ -5,6 +5,8 @@
 ### 安装教程
 
 [参考这里](https://blog.csdn.net/qq_41782425/article/details/85183250)
+### 详细教程
+[参考这里](https://gitee.com/progit/)
 
 ### 工作流程
 
