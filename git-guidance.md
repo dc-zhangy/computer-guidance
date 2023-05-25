@@ -21,6 +21,7 @@ git diff           #查看工作区与暂存区的diff
 git diff <file>    #指定文件
 git diff --cached  #查看暂存区与上一次提交的diff
 git log            #查看历史提交记录
+git log -2         #查看最近两次提交记录
 
 git add <file>     #把工作目录的修改提交到暂存区
 git add --all      #提交所有文件
